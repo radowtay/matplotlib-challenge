@@ -8,3 +8,4 @@ Based on the analysis of the data contained in this notebook, we have found that
 While not a direct observation on the drug results, we also saw the correlation between the weight of the mice themselves, and the sizes of the tumors they suffered. Perhaps more studies should be designed to find definitive results on this idea.
 
 Alarmingly, mice on any drug other than Capomulin and Ramicane performed at around the same level as mice on the Placebo, except for mice on Propriva which lived the shortest in the study on average.
+https://github.com/radowtay/matplotlib-challenge/blob/main/Pymaceuticals%20Analysis.ipynb
